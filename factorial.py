@@ -1,6 +1,5 @@
 def factorize(x):
-    """Factorize a number.
-    """
+    """Factorize a number."""
     if x == 0:
         return 1
     else:
